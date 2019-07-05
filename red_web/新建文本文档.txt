@@ -1,0 +1,6 @@
+https://gitee.com/ruiqinet/red_web.git
+
+
+git push https://gitee.com/ruiqinet/red_web.git master   上传
+
+git pull https://gitee.com/ruiqinet/red_web.git master   下拉
