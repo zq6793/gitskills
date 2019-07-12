@@ -1,0 +1,45 @@
+https://blog.csdn.net/u013521220/article/details/78923136  ||    https://blog.csdn.net/t554984986/article/details/81751086        //小程序头部导航切换
+
+https://www.cnblogs.com/kumata/p/9061166.html   //github 提交修改代码
+
+http://git.fun-x.cn/funxcloud   //企业GitHub
+
+zhangqiang@funxdata.com   //企业邮件箱
+
+https://github.com/arcliang/Vue-Devtools-  //Vue-Devtools安装配置教程（献给伸手党）
+
+https://www.cnblogs.com/zczhangcui/p/9347447.html     https://www.cnblogs.com/zhoulifeng/p/10729883.html   https://blog.csdn.net/qq_38145702/article/details/81558816   //axios封装接口文档
+
+css3的 -webkit-min-device-pixel-ratio属性 解决高清的适配
+
+https://www.liaoxuefeng.com/wiki/896043488029600  //廖雪峰教学官网
+
+画图连接  https://org.modao.cc/app/c9664df754aa586821563611e963e58e469e7c50
+          https://org.modao.cc/app/8999cc0b4ad48488d6bc3a7b3be369cd485721fd
+
+
+Git命令：
+
+      用git log --graph命令可以看到分支合并图
+      $ git stash  可以把当前工作现场“储藏”起来，等以后恢复现场后继续工作
+      git stash list查看‘储藏’状态
+      git stash apply stash@{0}恢复储藏
+      一是用git stash apply恢复，但是恢复后，stash内容并不删除，你需要用git stash drop来删除；
+
+另一种方式是用git stash pop，恢复的同时把stash内容也删了
+
+建立本地分支和远程分支的关联，使用git branch --set-upstream branch-name origin/branch-name；
+
+在本地创建和远程分支对应的分支，使用git checkout -b branch-name origin/branch-name，本地和远程分支的名称最好一致；
+
+还可以创建带有说明的标签，用-a指定标签名，-m指定说明文字：$ git tag -a v0.1 -m "version 0.1 released" 1094adb
+
+命令git push origin :refs/tags/<tagname>可以删除一个远程标签
+
+https://www.cnblogs.com/h82258652/p/4160853.html//博客接口园
+
+https://blog.csdn.net/c__chao/article/details/78573737//免费api,练习
+
+https://www.apiopen.top/api.html#760bca74e8164227bae98f09c3079efe//开源接口
+
+https://www.cnblogs.com/chu888chu888/archive/2012/04/12/2444666.html//十大渲染模板
